@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
+import com.spm.model.ComplexityFactor;
 import com.spm.model.JavaSourceCode;
 import com.spm.model.SourceCode;
 
@@ -38,13 +39,7 @@ public class App {
 						i++;
 					}
 					
-					for(int k=0;k<SCBuffer.length;k++) {
-						String BufferStatement = SCBuffer[k];
-						if(BufferStatement.contains("eid")) {
-							System.out.println("line: "+(k+1));
-						}
-					}
-					
+//					ComplexityFactor cf = new ComplexityFactor(SCBuffer,"java");
 					
 				}else
 					System.out.println("Blank Java file found. Nothing to measure.");
