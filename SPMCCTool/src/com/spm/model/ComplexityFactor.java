@@ -1,5 +1,12 @@
 package com.spm.model;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+import java.sql.Timestamp;
+import java.util.Date;
+
 public class ComplexityFactor {
 	private String type;
 	private double complexity;
@@ -12,7 +19,7 @@ public class ComplexityFactor {
 	private double[] statementComplexityArr;
 	private String[] summaryComplexity;
 	
-	public ComplexityFactor(String[] SC,String type) {
+	public ComplexityFactor(String[] SC,String type,String filename) {
 		this.setType(type);
 		double totalStatSizeComplexity=0;
 		
@@ -23,6 +30,35 @@ public class ComplexityFactor {
 		//loop to go through each statement while calculating complexity
 		for(int x=0;x<SC.length;x++) {
 			totalStatSizeComplexity = totalStatSizeComplexity+ this.calc_sComplexity_Size(SC[x],x);
+		}
+		
+		
+			PrintWriter writer;
+		try {
+			Date date= new Date();
+			long time = date.getTime();
+			Timestamp ts = new Timestamp(time);
+			
+			String formatted = filename.replace(".", "-");
+			String Filename=formatted+"-"+ts+".txt";
+			String FilenameMod=Filename.replace(":","-");
+			File f = new File("COMPLEXITY-LOG-FILES");
+			f.mkdirs();
+			writer = new PrintWriter("COMPLEXITY-LOG-FILES/"+FilenameMod, "UTF-8");
+			
+			for(int k=0;k<this.summaryComplexity.length;k++) {
+				writer.println(this.summaryComplexity[k]);
+			}
+			writer.close();
+		} catch (FileNotFoundException e1) {
+			e1.printStackTrace();
+		} catch (UnsupportedEncodingException e1) {
+			e1.printStackTrace();
+		}
+		
+		
+		if(this.summaryComplexity.length>0) {
+				System.out.println("Size complexity calculated");
 		}
 		
 	}
@@ -504,5 +540,13 @@ public class ComplexityFactor {
 
 	public void setType(String type) {
 		this.type = type;
+	}
+
+	public String[] getSummaryComplexity() {
+		return summaryComplexity;
+	}
+
+	public void setSummaryComplexity(String[] summaryComplexity) {
+		this.summaryComplexity = summaryComplexity;
 	}
 }

@@ -1,6 +1,6 @@
 package com.spm.model;
 
-public class SourceCode {
+public abstract class SourceCode {
 	protected String name;
 	protected int linesOfCode;
 	protected String remarks;
@@ -37,4 +37,5 @@ public class SourceCode {
 	public void setSCode(String[] sCode) {
 		SCode = sCode;
 	}
+	public abstract String getType();
 }
