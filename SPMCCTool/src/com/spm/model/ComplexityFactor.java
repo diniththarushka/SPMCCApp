@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.sql.Timestamp;
+import java.util.ArrayList;
 import java.util.Date;
 
 public class ComplexityFactor {
@@ -16,8 +17,8 @@ public class ComplexityFactor {
 	private double sComplexity_NestContrStruct;
 	private double sComplexity_Inherit;
 	private double complexity_Recursion;
-	private double[] statementComplexityArr;
-	private String[] summaryComplexity;
+	private ArrayList<ComplexityElement> elementComplexityArr;
+	private String[] summarySizeComplexity;
 	
 	public ComplexityFactor(String[] SC,String type,String filename) {
 		this.setType(type);
@@ -25,13 +26,15 @@ public class ComplexityFactor {
 		
 		this.setComplexity(0);
 		this.setsTotalComplexity(0);
-		this.statementComplexityArr = new double[SC.length];
-		this.summaryComplexity = new String[SC.length]; 
+		this.elementComplexityArr = new ArrayList<ComplexityElement>();
+		this.summarySizeComplexity = new String[SC.length]; 
 		//loop to go through each statement while calculating complexity
 		for(int x=0;x<SC.length;x++) {
 			totalStatSizeComplexity = totalStatSizeComplexity+ this.calc_sComplexity_Size(SC[x],x);
 		}
-		
+		//Add size complexity to summary
+		this.sComplexity_Size=totalStatSizeComplexity;
+		this.registerComplexity("Complexity due to Statement Size: ", totalStatSizeComplexity);
 		
 			PrintWriter writer;
 		try {
@@ -45,10 +48,19 @@ public class ComplexityFactor {
 			File f = new File("COMPLEXITY-LOG-FILES");
 			f.mkdirs();
 			writer = new PrintWriter("COMPLEXITY-LOG-FILES/"+FilenameMod, "UTF-8");
+			writer.println("-----------------------------------------------  File Info  --------------------------------------------------\n");
+			writer.println("\t\tFile Name: "+filename);
+			writer.println("\t\tFile Type: "+type);
+			writer.println("\t\tLines of Code: "+SC.length);
+			writer.println("\n----------------------------------------------------------------------------------------------------------------");
 			
-			for(int k=0;k<this.summaryComplexity.length;k++) {
-				writer.println(this.summaryComplexity[k]);
+																								//Logging Summary of Size Complexity
+			writer.println("------------------------------------------  Complexity By Size  ----------------------------------------------");
+			for(int k=0;k<this.summarySizeComplexity.length;k++) {
+				writer.println(this.summarySizeComplexity[k]);
 			}
+			writer.println("\n--Total statement size complexity: "+totalStatSizeComplexity);
+			writer.println("\n----------------------------------------------------------------------------------------------------------------");
 			writer.close();
 		} catch (FileNotFoundException e1) {
 			e1.printStackTrace();
@@ -56,23 +68,29 @@ public class ComplexityFactor {
 			e1.printStackTrace();
 		}
 		
-		
-		if(this.summaryComplexity.length>0) {
+		if(!this.elementComplexityArr.isEmpty()) {
 				System.out.println("Size complexity calculated");
 		}
 		
 	}
 	
+	public void registerComplexity(String comptype,double comp) {
+		if(comptype!=null) {
+			ComplexityElement SizeComplexity = new ComplexityElement(comptype,comp);
+			this.elementComplexityArr.add(SizeComplexity);
+		}
+	}
+	
 	public double calc_sComplexity_Size(String statement,int line) {
 		int Cs = 0;
-		String str = "Complexity summary: Statement Size, line: "+line;
+		String str = "Complexity summary: Statement Size, line: "+(line+1);
 		
 		if(statement.contains("*") && this.getType()!="C++"){
-			str=str+"\n * detected";
+			str=str+"\n * detected \n";
 			String sub = "*";
 			String temp = statement.replace(sub, "");
 			int occ = (statement.length() - temp.length()) / sub.length();
-			
+			str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 2*occ;
 			}else {
@@ -80,11 +98,11 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("&")){
-			str=str+"\n & detected";
+			str=str+"\n & detected \n";
 			String sub = "&";
 			String temp = statement.replace(sub, "");
 			int occ = (statement.length() - temp.length()) / sub.length();
-			
+			str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 2*occ;
 			}else {
@@ -92,11 +110,11 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("new")){
-			str=str+"\n 'new' keyword detected";
+			str=str+"\n 'new' keyword detected \n";
 			String sub = "new";
 			String temp = statement.replace(sub, "");
 			int occ = (statement.length() - temp.length()) / sub.length();
-			
+			str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 2*occ;
 			}else {
@@ -104,11 +122,11 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("delete")){
-			str=str+"\n 'delete' keyword detected";
+			str=str+"\n 'delete' keyword detected \n";
 			String sub = "delete";
 			String temp = statement.replace(sub, "");
 			int occ = (statement.length() - temp.length()) / sub.length();
-			
+			str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 2*occ;
 			}else {
@@ -116,11 +134,11 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("throw")){
-			str=str+"\n 'throw' keyword detected";
+			str=str+"\n 'throw' keyword detected \n";
 			String sub = "throw";
 			String temp = statement.replace(sub, "");
 			int occ = (statement.length() - temp.length()) / sub.length();
-			
+			str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 2*occ;
 			}else {
@@ -128,7 +146,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("+") || statement.contains("-") || statement.contains("*") || statement.contains("/") || statement.contains("++")  || statement.contains("%")|| statement.contains("--")){
-			str=str+"\n arithmetic operator(s) detected";
+			str=str+"\n arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')\n";
 			int occ=0;
 			String sub = "+";
 			String temp = statement.replace(sub, "");
@@ -145,6 +163,7 @@ public class ComplexityFactor {
 			 sub = "%";
 			 temp = statement.replace(sub, "");
 			occ = occ +(statement.length() - temp.length()) / sub.length();
+			str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -153,7 +172,7 @@ public class ComplexityFactor {
 		}
 		
 		if(statement.contains("==") || statement.contains("!=") || statement.contains(">") || statement.contains("<") || statement.contains(">=")  || statement.contains("<=")){
-			str=str+"\n relation operator(s) detected";
+			str=str+"\n relation operator(s) detected ('==','!=','>','<','>=' or '<=') \n";
 			int occ =0;
 			String sub = ">";
 			String temp = statement.replace(sub, "");
@@ -178,7 +197,7 @@ public class ComplexityFactor {
 			 sub = "!=";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -186,12 +205,12 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("&&") || statement.contains("||") || statement.contains("!")){
-			str=str+"\n logical operator(s) detected";
+			str=str+"\n logical operator(s) detected ('&&','||' or '!')\n";
 			int occ =0;
 			String sub = "!";
 			String temp = statement.replace(sub, "");
 			occ =occ+((statement.length() - temp.length()) / sub.length());
-			
+			str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			 sub = "<";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
@@ -199,39 +218,6 @@ public class ComplexityFactor {
 			 sub = "==";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			if(Cs == 0) {
-				Cs = 1*occ;
-			}else {
-				Cs=Cs+(1*occ);
-			}
-		}
-		if(statement.contains("==") || statement.contains("!=") || statement.contains(">") || statement.contains("<") || statement.contains(">=")  || statement.contains("<=")){
-			str=str+"\n relation operator(s) detected";
-			int occ =0;
-			String sub = ">";
-			String temp = statement.replace(sub, "");
-			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
-			 sub = "<";
-			 temp = statement.replace(sub, "");
-			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			
-			 sub = "==";
-			 temp = statement.replace(sub, "");
-			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
-			 sub = "<=";
-			 temp = statement.replace(sub, "");
-			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
-			 sub = ">=";
-			 temp = statement.replace(sub, "");
-			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
-			 sub = "!=";
-			 temp = statement.replace(sub, "");
-			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -239,7 +225,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("|") || statement.contains("^") || statement.contains("~") || statement.contains("<<") || statement.contains(">>")  || statement.contains("<<<") || statement.contains(">>>")){
-			str=str+"\n bitwise operator(s) detected";
+			str=str+"\n bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') \n";
 			int occ =0;
 			String sub = ">>";
 			String temp = statement.replace(sub, "");
@@ -268,6 +254,7 @@ public class ComplexityFactor {
 			 sub = "~";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -275,7 +262,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains(",") || statement.contains("::") || statement.contains("->") || statement.contains(".")){
-			str=str+"\n misc operator(s) detected";
+			str=str+"\n misc operator(s) detected (',','->','::' or '.')\n";
 			int occ =0;
 			String sub = ",";
 			String temp = statement.replace(sub, "");
@@ -292,7 +279,7 @@ public class ComplexityFactor {
 			 sub = ".";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -300,7 +287,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("+=") || statement.contains("-=") || statement.contains("*=") || statement.contains("/=") || statement.contains("=")  || statement.contains("|=") || statement.contains("&=") || statement.contains("%=")  || statement.contains("<<=") || statement.contains(">>>=")  || statement.contains(">>=") || statement.contains("^=")){
-			str=str+"\n assignment operator(s) detected";
+			str=str+"\n assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') \n";
 			int occ =0;
 			String sub = "+=";
 			String temp = statement.replace(sub, "");
@@ -349,6 +336,7 @@ public class ComplexityFactor {
 			 sub = "^=";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -356,7 +344,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("void") || statement.contains("int") || statement.contains("double") || statement.contains("float") || statement.contains("String")  || statement.contains("printf") || statement.contains("println") || statement.contains("cout")  || statement.contains("cin") || statement.contains("if")  || statement.contains("for") || statement.contains("while")  || statement.contains("do")  || statement.contains("switch") || statement.contains("case")){
-			str=str+"\n key word(s) detected";
+			str=str+"\n key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') \n";
 			int occ =0;
 			String sub = "void";
 			String temp = statement.replace(sub, "");
@@ -417,6 +405,7 @@ public class ComplexityFactor {
 			 sub = "case";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -424,7 +413,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("endl") || statement.contains("\n")){
-			str=str+"\n manipulator(s) detected";
+			str=str+"\n manipulator(s) detected (endl,\\n)\n";
 			int occ =0;
 			String sub = "endl";
 			String temp = statement.replace(sub, "");
@@ -433,7 +422,7 @@ public class ComplexityFactor {
 			 sub = "\n";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
-		
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -441,7 +430,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("\"")){
-			str=str+"\n double quotes detected";
+			str=str+"\n double quotes detected \n";
 			int occ =0;
 			String sub = "\"";
 			String temp = statement.replace(sub, "");
@@ -454,7 +443,7 @@ public class ComplexityFactor {
 			}
 		}
 		if(statement.contains("class") || statement.contains("Class") || statement.contains("()") || statement.contains("[]")){
-			str=str+"\n other types(class/methods/attributes/arrays) detected";
+			str=str+"\n other types(class/methods/attributes/arrays) detected \n";
 			int occ =0;
 			String sub = "class";
 			String temp = statement.replace(sub, "");
@@ -467,6 +456,7 @@ public class ComplexityFactor {
 			 sub = "[]";
 			 temp = statement.replace(sub, "");
 			 occ =occ+((statement.length() - temp.length()) / sub.length());
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
@@ -475,19 +465,20 @@ public class ComplexityFactor {
 		}
 		
 		if(statement.matches(".*\\d.*")){
-			str=str+"\n number(s) detected";
+			str=str+"\n number(s) detected"+(line+1)+"\n";
 			int occ =0;
-			String sub = ".*\\d.*";
+			String sub = "\\d";
 			String temp = statement.replace(sub, "");
-			 occ =occ+((statement.length() - temp.length()) / sub.length());
-			 
+			temp = statement.replaceAll("[0-9]", "");
+			 occ =occ+((statement.length() - temp.length()) / 1);
+			 str=str+"Statement Size Complexity :"+(2*occ)+"\n";
 			if(Cs == 0) {
 				Cs = 1*occ;
 			}else {
 				Cs=Cs+(1*occ);
 			}
 		}
-		this.summaryComplexity[line]=str;
+		this.summarySizeComplexity[line]=str;
 		return Cs;
 	}
 	
@@ -543,10 +534,18 @@ public class ComplexityFactor {
 	}
 
 	public String[] getSummaryComplexity() {
-		return summaryComplexity;
+		return summarySizeComplexity;
 	}
 
 	public void setSummaryComplexity(String[] summaryComplexity) {
-		this.summaryComplexity = summaryComplexity;
+		this.summarySizeComplexity = summaryComplexity;
+	}
+
+	public ArrayList<ComplexityElement> getElementComplexityArr() {
+		return elementComplexityArr;
+	}
+
+	public void setElementComplexityArr(ArrayList<ComplexityElement> elementComplexityArr) {
+		this.elementComplexityArr = elementComplexityArr;
 	}
 }
