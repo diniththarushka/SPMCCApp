@@ -1,0 +1,4912 @@
+-----------------------------------------------  File Info  --------------------------------------------------
+
+		File Name: ComplexityFactor.java
+		File Type: Java
+		Lines of Code: 612
+
+----------------------------------------------------------------------------------------------------------------
+------------------------------------------  Complexity By Size  ----------------------------------------------
+Complexity summary: Statement Size, line: 1
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 2
+Complexity summary: Statement Size, line: 3
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 4
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 5
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 6
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 7
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 8
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 9
+Complexity summary: Statement Size, line: 10
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 11
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 12
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected12
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 13
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 14
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 15
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 16
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 17
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 18
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 19
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 20
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 21
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 22
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 23
+Complexity summary: Statement Size, line: 24
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 25
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 26
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected26
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 27
+Complexity summary: Statement Size, line: 28
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ number(s) detected28
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 29
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ number(s) detected29
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 30
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 31
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 32
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 33
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected33
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 34
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 35
+Complexity summary: Statement Size, line: 36
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected36
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 37
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected37
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 38
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected38
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 39
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 40
+Complexity summary: Statement Size, line: 41
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 42
+Complexity summary: Statement Size, line: 43
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 44
+Complexity summary: Statement Size, line: 45
+Complexity summary: Statement Size, line: 46
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 47
+Complexity summary: Statement Size, line: 48
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 49
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 50
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 51
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 52
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :8
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 53
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 54
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 55
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 56
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :10
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+ number(s) detected56
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 57
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected57
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 58
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 59
+Complexity summary: Statement Size, line: 60
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 61
+ number(s) detected61
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 62
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+ number(s) detected62
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 63
+ number(s) detected63
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 64
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+ number(s) detected64
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 65
+Complexity summary: Statement Size, line: 66
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected66
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 67
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 68
+Complexity summary: Statement Size, line: 69
+Complexity summary: Statement Size, line: 70
+Complexity summary: Statement Size, line: 71
+Complexity summary: Statement Size, line: 72
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :8
+
+Complexity summary: Statement Size, line: 73
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected73
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 74
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :18
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :8
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 75
+Complexity summary: Statement Size, line: 76
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 77
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 78
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 79
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 80
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 81
+ & detected 
+Statement Size Complexity :4
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected81
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 82
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 83
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :8
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 84
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 85
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected85
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 86
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 87
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 88
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 89
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected89
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 90
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :12
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :8
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+ number(s) detected90
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 91
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected91
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 92
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ number(s) detected92
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 93
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :8
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+ number(s) detected93
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 94
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected94
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 95
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 96
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 97
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :8
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 98
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :10
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+ number(s) detected98
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 99
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 100
+ number(s) detected100
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 101
+Complexity summary: Statement Size, line: 102
+Complexity summary: Statement Size, line: 103
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 104
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 105
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 106
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+ number(s) detected106
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 107
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 108
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :4
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :8
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 109
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 110
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 111
+Complexity summary: Statement Size, line: 112
+Complexity summary: Statement Size, line: 113
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+ number(s) detected113
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 114
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 115
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 116
+Complexity summary: Statement Size, line: 117
+ & detected 
+Statement Size Complexity :4
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 118
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+ number(s) detected118
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 119
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 120
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 121
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 122
+Complexity summary: Statement Size, line: 123
+Complexity summary: Statement Size, line: 124
+Complexity summary: Statement Size, line: 125
+Complexity summary: Statement Size, line: 126
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :8
+
+Complexity summary: Statement Size, line: 127
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected127
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 128
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 129
+Complexity summary: Statement Size, line: 130
+ * detected 
+Statement Size Complexity :2
+
+ & detected 
+Statement Size Complexity :4
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 131
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 132
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 133
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 134
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 135
+Complexity summary: Statement Size, line: 136
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected136
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 137
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected137
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 138
+Complexity summary: Statement Size, line: 139
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected139
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 140
+Complexity summary: Statement Size, line: 141
+Complexity summary: Statement Size, line: 142
+ & detected 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 143
+ & detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 144
+ & detected 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 145
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 146
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 147
+Complexity summary: Statement Size, line: 148
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected148
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 149
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected149
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 150
+Complexity summary: Statement Size, line: 151
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected151
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 152
+Complexity summary: Statement Size, line: 153
+Complexity summary: Statement Size, line: 154
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 155
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 156
+ 'new' keyword detected 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 157
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 158
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 159
+Complexity summary: Statement Size, line: 160
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected160
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 161
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected161
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 162
+Complexity summary: Statement Size, line: 163
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected163
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 164
+Complexity summary: Statement Size, line: 165
+Complexity summary: Statement Size, line: 166
+ 'delete' keyword detected 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 167
+ 'delete' keyword detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 168
+ 'delete' keyword detected 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 169
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 170
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 171
+Complexity summary: Statement Size, line: 172
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected172
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 173
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected173
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 174
+Complexity summary: Statement Size, line: 175
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected175
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 176
+Complexity summary: Statement Size, line: 177
+Complexity summary: Statement Size, line: 178
+ 'throw' keyword detected 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 179
+ 'throw' keyword detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 180
+ 'throw' keyword detected 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 181
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 182
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 183
+Complexity summary: Statement Size, line: 184
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected184
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 185
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected185
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 186
+Complexity summary: Statement Size, line: 187
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected187
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 188
+Complexity summary: Statement Size, line: 189
+Complexity summary: Statement Size, line: 190
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :18
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :24
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :14
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 191
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 192
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected192
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 193
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 194
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 195
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 196
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 197
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 198
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 199
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 200
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 201
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 202
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 203
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 204
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 205
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 206
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 207
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 208
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected208
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 209
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected209
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 210
+Complexity summary: Statement Size, line: 211
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected211
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 212
+Complexity summary: Statement Size, line: 213
+Complexity summary: Statement Size, line: 214
+Complexity summary: Statement Size, line: 215
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :16
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :2
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :20
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :12
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :10
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 216
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 217
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected217
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 218
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 219
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 220
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 221
+Complexity summary: Statement Size, line: 222
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 223
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 224
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 225
+Complexity summary: Statement Size, line: 226
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 227
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 228
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 229
+Complexity summary: Statement Size, line: 230
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 231
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 232
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 233
+Complexity summary: Statement Size, line: 234
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 235
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 236
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 237
+Complexity summary: Statement Size, line: 238
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 239
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 240
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 241
+Complexity summary: Statement Size, line: 242
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected242
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 243
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected243
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 244
+Complexity summary: Statement Size, line: 245
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected245
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 246
+Complexity summary: Statement Size, line: 247
+Complexity summary: Statement Size, line: 248
+ & detected 
+Statement Size Complexity :4
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :2
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :12
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 249
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 250
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected250
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 251
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 252
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 253
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 254
+Complexity summary: Statement Size, line: 255
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 256
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 257
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 258
+Complexity summary: Statement Size, line: 259
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 260
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 261
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 262
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected262
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 263
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected263
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 264
+Complexity summary: Statement Size, line: 265
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected265
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 266
+Complexity summary: Statement Size, line: 267
+Complexity summary: Statement Size, line: 268
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :16
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :2
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :20
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :12
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :10
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 269
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 270
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected270
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 271
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 272
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 273
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 274
+Complexity summary: Statement Size, line: 275
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 276
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 277
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 278
+Complexity summary: Statement Size, line: 279
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 280
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 281
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 282
+Complexity summary: Statement Size, line: 283
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 284
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 285
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 286
+Complexity summary: Statement Size, line: 287
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 288
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 289
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 290
+Complexity summary: Statement Size, line: 291
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 292
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 293
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 294
+Complexity summary: Statement Size, line: 295
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected295
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 296
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected296
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 297
+Complexity summary: Statement Size, line: 298
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected298
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 299
+Complexity summary: Statement Size, line: 300
+Complexity summary: Statement Size, line: 301
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :20
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :42
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :14
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 302
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 303
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected303
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 304
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :4
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 305
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 306
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 307
+Complexity summary: Statement Size, line: 308
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :4
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 309
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 310
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 311
+Complexity summary: Statement Size, line: 312
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :6
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 313
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 314
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 315
+Complexity summary: Statement Size, line: 316
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :6
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 317
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 318
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 319
+Complexity summary: Statement Size, line: 320
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 321
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 322
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 323
+Complexity summary: Statement Size, line: 324
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 325
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 326
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 327
+Complexity summary: Statement Size, line: 328
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 329
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 330
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 331
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected331
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 332
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected332
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 333
+Complexity summary: Statement Size, line: 334
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected334
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 335
+Complexity summary: Statement Size, line: 336
+Complexity summary: Statement Size, line: 337
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :12
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :16
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 338
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 339
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected339
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 340
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 341
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 342
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 343
+Complexity summary: Statement Size, line: 344
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 345
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 346
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 347
+Complexity summary: Statement Size, line: 348
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 349
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 350
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 351
+Complexity summary: Statement Size, line: 352
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 353
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 354
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 355
+Complexity summary: Statement Size, line: 356
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected356
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 357
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected357
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 358
+Complexity summary: Statement Size, line: 359
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected359
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 360
+Complexity summary: Statement Size, line: 361
+Complexity summary: Statement Size, line: 362
+ * detected 
+Statement Size Complexity :2
+
+ & detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :10
+
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :20
+
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :56
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :24
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :48
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 363
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 364
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected364
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 365
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 366
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 367
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 368
+Complexity summary: Statement Size, line: 369
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 370
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 371
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 372
+Complexity summary: Statement Size, line: 373
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 374
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 375
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 376
+Complexity summary: Statement Size, line: 377
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 378
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 379
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 380
+Complexity summary: Statement Size, line: 381
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 382
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 383
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 384
+Complexity summary: Statement Size, line: 385
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 386
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 387
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 388
+Complexity summary: Statement Size, line: 389
+ & detected 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 390
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 391
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 392
+Complexity summary: Statement Size, line: 393
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 394
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 395
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 396
+Complexity summary: Statement Size, line: 397
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :6
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 398
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 399
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 400
+Complexity summary: Statement Size, line: 401
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :6
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 402
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 403
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 404
+Complexity summary: Statement Size, line: 405
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :8
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :8
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 406
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 407
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 408
+Complexity summary: Statement Size, line: 409
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :6
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 410
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 411
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 412
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected412
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 413
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected413
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 414
+Complexity summary: Statement Size, line: 415
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected415
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 416
+Complexity summary: Statement Size, line: 417
+Complexity summary: Statement Size, line: 418
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :56
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :30
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :38
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 419
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 420
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected420
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 421
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 422
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 423
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 424
+Complexity summary: Statement Size, line: 425
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 426
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 427
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 428
+Complexity summary: Statement Size, line: 429
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 430
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 431
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 432
+Complexity summary: Statement Size, line: 433
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 434
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 435
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 436
+Complexity summary: Statement Size, line: 437
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 438
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 439
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 440
+Complexity summary: Statement Size, line: 441
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 442
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 443
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 444
+Complexity summary: Statement Size, line: 445
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 446
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 447
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 448
+Complexity summary: Statement Size, line: 449
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 450
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 451
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 452
+Complexity summary: Statement Size, line: 453
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 454
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 455
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 456
+Complexity summary: Statement Size, line: 457
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 458
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 459
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 460
+Complexity summary: Statement Size, line: 461
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 462
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 463
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 464
+Complexity summary: Statement Size, line: 465
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 466
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 467
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 468
+Complexity summary: Statement Size, line: 469
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 470
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 471
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 472
+Complexity summary: Statement Size, line: 473
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 474
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 475
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 476
+Complexity summary: Statement Size, line: 477
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 478
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 479
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 480
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected480
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 481
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected481
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 482
+Complexity summary: Statement Size, line: 483
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected483
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 484
+Complexity summary: Statement Size, line: 485
+Complexity summary: Statement Size, line: 486
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ manipulator(s) detected (endl,\n)
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 487
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 488
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected488
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 489
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ manipulator(s) detected (endl,\n)
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 490
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 491
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 492
+Complexity summary: Statement Size, line: 493
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 494
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 495
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 496
+Complexity summary: Statement Size, line: 497
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected497
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 498
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected498
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 499
+Complexity summary: Statement Size, line: 500
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected500
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 501
+Complexity summary: Statement Size, line: 502
+Complexity summary: Statement Size, line: 503
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 504
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 505
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected505
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 506
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 507
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 508
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 509
+Complexity summary: Statement Size, line: 510
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected510
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 511
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected511
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 512
+Complexity summary: Statement Size, line: 513
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected513
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 514
+Complexity summary: Statement Size, line: 515
+Complexity summary: Statement Size, line: 516
+ logical operator(s) detected ('&&','||' or '!')
+Statement Size Complexity :0
+
+ bitwise operator(s) detected ('|','^','~','<<','>>','<<<' or '>>>') 
+Statement Size Complexity :12
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :8
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 517
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :8
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 518
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected518
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 519
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 520
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 521
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 522
+Complexity summary: Statement Size, line: 523
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 524
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 525
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 526
+Complexity summary: Statement Size, line: 527
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 528
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 529
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 530
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected530
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 531
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected531
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 532
+Complexity summary: Statement Size, line: 533
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected533
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 534
+Complexity summary: Statement Size, line: 535
+Complexity summary: Statement Size, line: 536
+Complexity summary: Statement Size, line: 537
+ * detected 
+Statement Size Complexity :4
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 538
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 539
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected539
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 540
+ * detected 
+Statement Size Complexity :4
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 541
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ double quotes detected 
+
+Complexity summary: Statement Size, line: 542
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :6
+
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :6
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 543
+Complexity summary: Statement Size, line: 544
+ relation operator(s) detected ('==','!=','>','<','>=' or '<=') 
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :4
+
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ number(s) detected544
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 545
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected545
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 546
+Complexity summary: Statement Size, line: 547
+ * detected 
+Statement Size Complexity :2
+
+ arithmetic operator(s) detected ('+','-','*','/','++','%' or '--')
+Statement Size Complexity :4
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+ number(s) detected547
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 548
+Complexity summary: Statement Size, line: 549
+Complexity summary: Statement Size, line: 550
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 551
+Complexity summary: Statement Size, line: 552
+Complexity summary: Statement Size, line: 553
+Complexity summary: Statement Size, line: 554
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 555
+Complexity summary: Statement Size, line: 556
+Complexity summary: Statement Size, line: 557
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 558
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 559
+Complexity summary: Statement Size, line: 560
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 561
+Complexity summary: Statement Size, line: 562
+Complexity summary: Statement Size, line: 563
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 564
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 565
+Complexity summary: Statement Size, line: 566
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 567
+Complexity summary: Statement Size, line: 568
+Complexity summary: Statement Size, line: 569
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 570
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 571
+Complexity summary: Statement Size, line: 572
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 573
+Complexity summary: Statement Size, line: 574
+Complexity summary: Statement Size, line: 575
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 576
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 577
+Complexity summary: Statement Size, line: 578
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 579
+Complexity summary: Statement Size, line: 580
+Complexity summary: Statement Size, line: 581
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 582
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 583
+Complexity summary: Statement Size, line: 584
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 585
+Complexity summary: Statement Size, line: 586
+Complexity summary: Statement Size, line: 587
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 588
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 589
+Complexity summary: Statement Size, line: 590
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 591
+Complexity summary: Statement Size, line: 592
+Complexity summary: Statement Size, line: 593
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :6
+
+Complexity summary: Statement Size, line: 594
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 595
+Complexity summary: Statement Size, line: 596
+Complexity summary: Statement Size, line: 597
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 598
+Complexity summary: Statement Size, line: 599
+Complexity summary: Statement Size, line: 600
+Complexity summary: Statement Size, line: 601
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 602
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 603
+Complexity summary: Statement Size, line: 604
+Complexity summary: Statement Size, line: 605
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :2
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :4
+
+Complexity summary: Statement Size, line: 606
+Complexity summary: Statement Size, line: 607
+Complexity summary: Statement Size, line: 608
+Complexity summary: Statement Size, line: 609
+ key word(s) detected ('void','int','double','float','String','printf','println','cout','cin','if','for','while','do','switch' or 'case') 
+Statement Size Complexity :4
+
+ other types(class/methods/attributes/arrays) detected 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 610
+ misc operator(s) detected (',','->','::' or '.')
+Statement Size Complexity :2
+
+ assignment operator(s) detected ('+=','-=','*=','/=','=','|=','&=','%=','<<=','>>>=','>>=' or '^=') 
+Statement Size Complexity :2
+
+Complexity summary: Statement Size, line: 611
+Complexity summary: Statement Size, line: 612
+
+--Total statement size complexity: 2974.0
+
+----------------------------------------------------------------------------------------------------------------

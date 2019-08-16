@@ -14,6 +14,7 @@ import com.spm.model.ComplexityElement;
 import com.spm.model.ComplexityFactor;
 import com.spm.model.JavaSourceCode;
 import com.spm.model.SourceCode;
+import com.spm.util.Highlight;
 
 import java.awt.Font;
 import java.awt.Graphics2D;
@@ -239,6 +240,9 @@ public class MainGUI {
 							+"\nCheck the corresponding Log file for detailed info.";
 					JOptionPane.showMessageDialog(null, summary, "Complexity Summary: "+file.getName(),JOptionPane.INFORMATION_MESSAGE,logo);
 					
+					Highlight window = new Highlight();
+					window.setCode(SCBuffer,cf.getComplexlines());
+					window.frame.setVisible(true);
 //				String[] summarySizeC = cf.getSummaryComplexity();
 //				
 //				if(summarySizeC.length>0){
@@ -279,6 +283,11 @@ public class MainGUI {
 					summary=summary+"\n-------------------------------------------------------------------------------"
 							+"\nCheck the corresponding Log file for detailed info.";
 					JOptionPane.showMessageDialog(null, summary, "Complexity Summary: "+file.getName(),JOptionPane.INFORMATION_MESSAGE,logo);
+					
+					Highlight window = new Highlight();
+					window.setCode(SCBuffer,cf.getComplexlines());
+					window.frame.setVisible(true);
+					
 //				String[] summarySizeC = cf.getSummaryComplexity();
 //				
 //				if(summarySizeC.length>0){

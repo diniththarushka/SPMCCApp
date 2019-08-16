@@ -19,6 +19,7 @@ public class ComplexityFactor {
 	private double complexity_Recursion;
 	private ArrayList<ComplexityElement> elementComplexityArr;
 	private String[] summarySizeComplexity;
+	private boolean[] complexlines;
 	
 	public ComplexityFactor(String[] SC,String type,String filename) {
 		this.setType(type);
@@ -28,6 +29,7 @@ public class ComplexityFactor {
 		this.setsTotalComplexity(0);
 		this.elementComplexityArr = new ArrayList<ComplexityElement>();
 		this.summarySizeComplexity = new String[SC.length]; 
+		this.complexlines = new boolean[SC.length];
 		//loop to go through each statement while calculating complexity
 		for(int x=0;x<SC.length;x++) {
 			totalStatSizeComplexity = totalStatSizeComplexity+ this.calc_sComplexity_Size(SC[x],x);
@@ -72,6 +74,10 @@ public class ComplexityFactor {
 				System.out.println("Size complexity calculated");
 		}
 		
+	}
+	
+	public void stateChangeBool(int line) {
+		this.complexlines[line] = true;
 	}
 	
 	public void registerComplexity(String comptype,double comp) {
@@ -478,6 +484,9 @@ public class ComplexityFactor {
 				Cs=Cs+(1*occ);
 			}
 		}
+		if(Cs>0) {
+			this.stateChangeBool(line);
+		}
 		this.summarySizeComplexity[line]=str;
 		return Cs;
 	}
@@ -547,5 +556,9 @@ public class ComplexityFactor {
 
 	public void setElementComplexityArr(ArrayList<ComplexityElement> elementComplexityArr) {
 		this.elementComplexityArr = elementComplexityArr;
+	}
+
+	public boolean[] getComplexlines() {
+		return complexlines;
 	}
 }
